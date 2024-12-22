@@ -97,6 +97,7 @@
     "defense_mag_grow": 0.0, 
     "defense_phy": 0.0, 
     "defense_phy_grow": 0.0, 
+    "desc": -918360057, 
     "description": -918360057, 
     "destroy_after_die": true, 
     "die_anim": "die", 
@@ -184,7 +185,7 @@
     "name": 1350499196, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 4.0, 
+    "ori_speed": 4.5, 
     "ori_speed_grow": 0.0, 
     "outline_pass_color": {
         "__tuple__": true, 

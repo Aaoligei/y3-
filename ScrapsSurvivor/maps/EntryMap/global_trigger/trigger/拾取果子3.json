@@ -160,7 +160,7 @@
             ], 
             "bp": false, 
             "element_id": 563261517000117, 
-            "enable": true
+            "enable": false
         }, 
         {
             "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
@@ -306,7 +306,7 @@
                             ], 
                             "bp": false, 
                             "element_id": 563261517000163, 
-                            "enable": true
+                            "enable": false
                         }
                     ], 
                     "sub_type": 1

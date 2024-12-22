@@ -136,6 +136,7 @@
     "heal_effect_grow": 0.0, 
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
+    "height_num": 20, 
     "height_offset": 0, 
     "hero_ability_list": {
         "__tuple__": true, 
@@ -161,7 +162,7 @@
     "is_open_outline_pass": false, 
     "is_shop": false, 
     "is_x_offset": 1, 
-    "is_z_offset": 1, 
+    "is_z_offset": false, 
     "keep_dead_body_time": 2.0, 
     "keep_target": true, 
     "key": 134282159, 
@@ -366,6 +367,7 @@
     "vision_true": 0.0, 
     "vision_true_grow": 0, 
     "walk_anim": "walk", 
-    "width_offset": 0, 
+    "width_num": 19, 
+    "width_offset": 0.25, 
     "y3_extra_info_show_type": 1
 }

@@ -6,9 +6,16 @@
     "md5": "3683a55aedbccaa5b10a3ec0bd4b2349", 
     "model_id": 134272075, 
     "name": "A\u6cbb\u7597\u5854\uff08\u51cf\u5c0f\uff09", 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            2.0, 
+            6.5
+        ]
+    }, 
     "preview_icon": "UP1ModelPreview/134272075", 
     "res_name": "\u6cbb\u7597\u5854\uff08\u51cf\u5c0f\uff09.fbx", 
-    "select_effect_scale": 1.0, 
+    "select_effect_scale": 2.2, 
     "size": 1.0, 
     "socket_info": {}, 
     "sub_type": "fbx", 

@@ -6,6 +6,7 @@
             "\u662f\u5426\u4ece\u6682\u505c\u4e2d\u6062\u590d": false, 
             "\u662f\u5426\u5904\u4e8e\u4e0a\u5854\u9009\u62e9\u65f6": false, 
             "\u662f\u5426\u5904\u4e8e\u5efa\u9020\u65f6": false, 
+            "\u662f\u5426\u8fc7\u8fd1": false, 
             "\u662f\u5426\u9009\u968f\u4ece": false, 
             "\u679c\u5b50\u4e8b\u4ef6": false
         }, 
@@ -362,6 +363,13 @@
                 "\u5b9d\u77f3\u751f\u6210\u7684\u5355\u4f4d\u7c7b\u578b\u5168\u5c40", 
                 "\u5b9d\u77f3\u751f\u6210\u7684\u5355\u4f4d\u7c7b\u578b\u5168\u5c40"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u662f\u5426\u8fc7\u8fd1", 
+                "\u662f\u5426\u8fc7\u8fd1"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -390,6 +398,7 @@
         "\u662f\u5426\u4ece\u6682\u505c\u4e2d\u6062\u590d": 0, 
         "\u662f\u5426\u5904\u4e8e\u4e0a\u5854\u9009\u62e9\u65f6": 0, 
         "\u662f\u5426\u5904\u4e8e\u5efa\u9020\u65f6": 0, 
+        "\u662f\u5426\u8fc7\u8fd1": 0, 
         "\u662f\u5426\u9009\u968f\u4ece": 0, 
         "\u6740\u602a\u8ba1\u6570": 0, 
         "\u679c\u5b50\u4e8b\u4ef6": 0, 

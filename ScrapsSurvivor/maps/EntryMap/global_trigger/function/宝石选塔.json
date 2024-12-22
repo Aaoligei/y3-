@@ -1,0 +1,193 @@
+{
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "UNIT_NAME", 
+                                "临时塔"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100116, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "UNIT_NAME", 
+                                "宝石选塔类型", 
+                                "local"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 2
+                }
+            ], 
+            "bp": false, 
+            "element_id": 703197276000001, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_UI_COMP_VISIBLE", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100070, 
+                    "args_list": [
+                        "d0c9b208-920d-47fd-8bab-b3eac242737e"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 703197276000002, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_MOUSE_FOLLOWER", 
+            "args_list": [
+                {
+                    "arg_type": 100122, 
+                    "args_list": [
+                        {
+                            "arg_type": 100116, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "UNIT_NAME", 
+                                        "临时塔"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 2
+                        }
+                    ], 
+                    "sub_type": "GET_UNIT_TYPE_MODEL"
+                }, 
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 703197276000003, 
+            "enable": true
+        }, 
+        {
+            "action_type": "NEW_CAMERA_SET_MOVE_ENABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 703197276000004, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "BOOLEAN", 
+                                "是否处于建造时"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 703197276000005, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "选择塔{宝石选塔类型}", 
+    "func_id": "bc846311beaa11ef8f5bdb5e7cf67fa3", 
+    "func_name": "宝石选塔", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "宝石选塔类型", 
+                true
+            ]
+        }
+    ], 
+    "group_id": "-V87Jb6nEe+48ttefPZ-o5", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 703197276, 
+    "trigger_name": "宝石选塔", 
+    "valid": true, 
+    "var_data": [
+        {
+            "BOOLEAN": {
+                "是否过近": false
+            }, 
+            "INTEGER": {}, 
+            "NEW_TIMER": {}, 
+            "UNIT_NAME": {
+                "塔": 0, 
+                "宝石选塔类型": 0
+            }
+        }, 
+        {
+            "塔": 0, 
+            "宝石选塔类型": 0, 
+            "是否过近": 0
+        }, 
+        [
+            "塔", 
+            "是否过近", 
+            "宝石选塔类型"
+        ]
+    ]
+}

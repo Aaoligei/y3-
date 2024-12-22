@@ -126,35 +126,6 @@
                 {
                     "arg_type": 100001, 
                     "args_list": [
-                        false
-                    ], 
-                    "sub_type": 1
-                }, 
-                {
-                    "arg_type": 100070, 
-                    "args_list": [
-                        "aa1341c2-1711-44b4-816c-150b687a7b9f"
-                    ], 
-                    "sub_type": 1
-                }
-            ], 
-            "bp": false, 
-            "element_id": 270217236000036, 
-            "enable": true
-        }, 
-        {
-            "action_type": "SET_UI_COMP_VISIBLE", 
-            "args_list": [
-                {
-                    "arg_type": 100025, 
-                    "args_list": [
-                        1
-                    ], 
-                    "sub_type": 1
-                }, 
-                {
-                    "arg_type": 100001, 
-                    "args_list": [
                         true
                     ], 
                     "sub_type": 1
@@ -400,7 +371,7 @@
                 {
                     "arg_type": 100001, 
                     "args_list": [
-                        false
+                        true
                     ], 
                     "sub_type": 1
                 }

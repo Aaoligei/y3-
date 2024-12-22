@@ -6,9 +6,16 @@
     "md5": "4858b1e708cee8676907eefce5295038", 
     "model_id": 134275352, 
     "name": "A\u653b\u51fb\u5854\uff08\u51cf\u5c0f\uff09", 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            2.0, 
+            6.5
+        ]
+    }, 
     "preview_icon": "UP1ModelPreview/134275352", 
     "res_name": "\u653b\u51fb\u5854\uff08\u51cf\u5c0f\uff09.fbx", 
-    "select_effect_scale": 1.0, 
+    "select_effect_scale": 2.2, 
     "size": 1.0, 
     "socket_info": {}, 
     "sub_type": "fbx", 
