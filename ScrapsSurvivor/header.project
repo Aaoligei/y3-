@@ -1,0 +1,21 @@
+{
+    "create_stamp": "202306120000", 
+    "editor_stamp": "202306120000", 
+    "encrypt_sections": [
+        "archive_data", 
+        "global_archive_data", 
+        "archive_table_data"
+    ], 
+    "entry_map": {
+        "id": 301241341199981209865385687810965607273, 
+        "name": "start"
+    }, 
+    "phy_mode": "2.5d", 
+    "project_id": 324831941008029836398861056973115821701, 
+    "project_name": "ScrapsSurvivor", 
+    "steam_lobby_map": {
+        "id": "", 
+        "name": ""
+    }, 
+    "version": 11
+}

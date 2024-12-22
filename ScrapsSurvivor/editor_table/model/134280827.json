@@ -1,0 +1,40 @@
+{
+    "anims": {}, 
+    "box": {
+        "__tuple__": true, 
+        "items": [
+            -0.13023899495601654, 
+            0.2757149934768677, 
+            -0.9955059885978699, 
+            0.422434002161026, 
+            6.350686073303223, 
+            1.0543930530548096
+        ]
+    }, 
+    "custom": true, 
+    "graph_info": {
+        "graph": null, 
+        "head_bone": "", 
+        "root_bone": "", 
+        "upper_bone": ""
+    }, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": [
+            "custom_model/134280827/pile of clumpy dirt.005", 
+            "custom_model/134280827/Blue Crate Emission.001", 
+            "custom_model/134280827/Blue Crate Boolean.001", 
+            "custom_model/134280827/Blue Crate.001"
+        ]
+    }, 
+    "model_id": 134280827, 
+    "name": "A\u6536\u96c6\u5854\uff08\u51cf\u5c0f\uff09", 
+    "physics_meshes": [
+        "ERROR: Invalid Mesh Virtual Path!", 
+        "ERROR: Invalid Mesh Virtual Path!", 
+        "ERROR: Invalid Mesh Virtual Path!", 
+        "ERROR: Invalid Mesh Virtual Path!"
+    ], 
+    "preview_icon": "UP1ModelPreview/134280827", 
+    "skeleton": ""
+}

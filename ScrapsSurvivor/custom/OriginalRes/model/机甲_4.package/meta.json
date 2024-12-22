@@ -1,0 +1,29 @@
+{
+    "id": 134276765,
+    "materials": [
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "\u5fae\u4fe1\u56fe\u7247_20241216145656.png",
+                    "tNormalMap": "\u5fae\u4fe1\u56fe\u7247_20241216145703.png"
+                }
+            }
+        ]
+    ],
+    "md5_file_list": [
+        "\u673a\u7532.fbx",
+        "\u5fae\u4fe1\u56fe\u7247_20241216145703.png",
+        "\u5fae\u4fe1\u56fe\u7247_20241216145656.png"
+    ],
+    "modification_time": 6937630353.824192,
+    "ori_res_type": "ori",
+    "physic": true,
+    "preview_icon": "thumbnail.png",
+    "res_type": "model",
+    "skeleton": "",
+    "source_path": "\u673a\u7532.fbx",
+    "static_import": true,
+    "version": 1,
+    "yaw": 0
+}

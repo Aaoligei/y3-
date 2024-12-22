@@ -1,0 +1,48 @@
+{
+    "anims": {
+        "Getting Up": "134275418/Getting Up.anim", 
+        "Laying Idle": "134275418/Laying Idle.anim", 
+        "die": "134275418/die.anim", 
+        "idle1": "134275418/idle1.anim", 
+        "walk": "134275418/walk.anim", 
+        "\u7f29\u5c0f- max2": "134275418/\u7f29\u5c0f- max2.anim"
+    }, 
+    "box": {
+        "__tuple__": true, 
+        "items": [
+            -0.10548300296068192, 
+            1.1532189846038818, 
+            -0.11350300163030624, 
+            0.10419700294733047, 
+            1.3626420497894287, 
+            0.09718400239944458
+        ]
+    }, 
+    "custom": true, 
+    "graph": "Char/Graph/common.graph", 
+    "graph_info": {
+        "graph": null, 
+        "head_bone": "", 
+        "root_bone": "", 
+        "upper_bone": ""
+    }, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": [
+            "custom_model/134275418/ES", 
+            "custom_model/134275418/LB", 
+            "custom_model/134275418/LF", 
+            "custom_model/134275418/LH"
+        ]
+    }, 
+    "model_id": 134275418, 
+    "name": "A\u7f29\u5c0f- max2", 
+    "physics_meshes": [
+        "custom_model/134275418/AutoPhy_Mesh_ES", 
+        "custom_model/134275418/AutoPhy_Mesh_LB", 
+        "custom_model/134275418/AutoPhy_Mesh_LF", 
+        "custom_model/134275418/AutoPhy_Mesh_LH"
+    ], 
+    "preview_icon": "UP1ModelPreview/134275418", 
+    "skeleton": "134275418\\base.skeleton"
+}

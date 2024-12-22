@@ -1,0 +1,34 @@
+{
+    "describe": 206697988, 
+    "editor_res": false, 
+    "key": 201134, 
+    "map_name": "h70t2", 
+    "model_id": 200245, 
+    "name": -1687355708, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Modern", 
+            "code_Doomsday", 
+            "code_FPS", 
+            "code_Electronic device", 
+            "code_Metal", 
+            "code_Grey", 
+            "code_Instrument", 
+            "P7(\u672b\u4e16\u751f\u5b58\u7cfb\u5217)"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/201134", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_model_Scene,code_Indoors,code_Electronic Equipment", 
+    "select_effect_scale": 1.8, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_201134"
+}

@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 1.099999994, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Ice/Ice_X1_WP_bsqixi0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134276348, 
+    "name": "\u51b0\u5c01"
+}

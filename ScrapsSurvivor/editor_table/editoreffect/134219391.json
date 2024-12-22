@@ -1,0 +1,70 @@
+{
+    "deps_info": {
+        "deps": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901392
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901610
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900006
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901659
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901927
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902212
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900691
+                ]
+            }
+        ], 
+        "sound_id_list": []
+    }, 
+    "describe": 134219391, 
+    "key": 134219391, 
+    "md5": "ba59232bb9e3e2294b1303ee8b4400d6", 
+    "model_id": 134252018, 
+    "name": "\u6cbb\u7597\u5854\u7279\u6548", 
+    "preview_icon": "", 
+    "res_identify": "", 
+    "res_type": "kkres", 
+    "scale": 1.0, 
+    "source_effect": [
+        101428
+    ], 
+    "uid": "134219391", 
+    "version": 1
+}

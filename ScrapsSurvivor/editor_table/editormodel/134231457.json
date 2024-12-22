@@ -1,0 +1,19 @@
+{
+    "custom_res_type": "custom_editor_model", 
+    "describe": "test_describe", 
+    "has_upload": false, 
+    "key": 134231457, 
+    "md5": "5cdac8d89759f61a55553e799bc7a482", 
+    "model_id": 134231457, 
+    "name": "A\u7f29\u5c0f- max1", 
+    "preview_icon": "UP1ModelPreview/134231457", 
+    "res_name": "\u7f29\u5c0f- max1.fbx", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "sub_type": "fbx", 
+    "uid": 134231457, 
+    "url": "https://kk3.nosdn.127.net/editor/png/e9fa4f21e5a7ef9f7cb4458b9d2d86b2.png", 
+    "version": 1, 
+    "yaw": 0
+}

@@ -1,0 +1,443 @@
+{
+    "unit": {
+        "2": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "display": {
+                    "real_scale": [
+                        2.5, 
+                        2.5, 
+                        2.5
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -35, 
+                                2641559552
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -81, 
+                                2060058624
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            2180639486
+                        ]
+                    }
+                }
+            }, 
+            "custom_material_data": {}, 
+            "editor_component": {
+                "placed_lock": false, 
+                "placed_visibility": true, 
+                "use_obj_attrs": true
+            }, 
+            "entity_id": 134252202, 
+            "kv_component": {
+                "10w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "10w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 9, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2110"
+                }, 
+                "11w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "11w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 10, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2111"
+                }, 
+                "12w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "12w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 11, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2112"
+                }, 
+                "13w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "13w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 12, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2113"
+                }, 
+                "14w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "14w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 13, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2114"
+                }, 
+                "15w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "15w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 14, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2115"
+                }, 
+                "16w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "16w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 15, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b211_1"
+                }, 
+                "17w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "17w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 16, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b212_1"
+                }, 
+                "18w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "18w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 17, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b213_1"
+                }, 
+                "19w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "19w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 18, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b214_1"
+                }, 
+                "1w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "1w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 0, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b211"
+                }, 
+                "20w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "20w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 19, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b215_1"
+                }, 
+                "21w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "21w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 20, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b216_1"
+                }, 
+                "22w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "22w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 21, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b217_1"
+                }, 
+                "23w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "23w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 22, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b218_1"
+                }, 
+                "24w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "24w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 23, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b219_1"
+                }, 
+                "25w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "25w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 24, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2110_1"
+                }, 
+                "26w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "26w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 25, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2111_1"
+                }, 
+                "27w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "27w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 26, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2112_1"
+                }, 
+                "28w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "28w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 27, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2113_1"
+                }, 
+                "29w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "29w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 28, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2114_1"
+                }, 
+                "2w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "2w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 1, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b212"
+                }, 
+                "30w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "30w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 29, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b2115_1"
+                }, 
+                "3w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "3w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 2, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b213"
+                }, 
+                "4w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "4w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 3, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b214"
+                }, 
+                "5w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "5w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 4, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b215"
+                }, 
+                "6w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "6w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 5, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b216"
+                }, 
+                "7w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "7w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 6, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b217"
+                }, 
+                "8w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "8w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 7, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b218"
+                }, 
+                "9w": {
+                    "annotation": "", 
+                    "desc": "", 
+                    "etype": 61, 
+                    "key": "9w", 
+                    "prop_cls": "PInt", 
+                    "remark": "", 
+                    "show_in_attr": true, 
+                    "sort": 8, 
+                    "type": 35, 
+                    "value": "\u6ce2\u6b219"
+                }
+            }, 
+            "name": "player", 
+            "type": 1, 
+            "unit_id": 2
+        }
+    }
+}

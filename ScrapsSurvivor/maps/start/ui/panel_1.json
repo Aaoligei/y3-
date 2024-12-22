@@ -1,0 +1,220 @@
+{
+    "adapt_mode": 1, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            640.0, 
+                            360.0, 
+                            640.0, 
+                            360.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "\u5f00\u59cb\u6e38\u620f_0", 
+                                    "not_wait_network": false, 
+                                    "sound_id": 110500, 
+                                    "type": 28
+                                }
+                            ], 
+                            "name": "\u5f00\u59cb\u6e38\u620f", 
+                            "normal_picture": 134228956, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    501.6662, 
+                                    544.0944, 
+                                    25.8882, 
+                                    50.2269, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    155.2557, 
+                                    47.0836
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "b1994e15-4302-4433-900c-c170e4654aa3"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "\u6e38\u620f\u8bbe\u7f6e_0", 
+                                    "not_wait_network": false, 
+                                    "sound_id": 110500, 
+                                    "type": 28
+                                }
+                            ], 
+                            "name": "\u6e38\u620f\u8bbe\u7f6e", 
+                            "normal_picture": 134271575, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    501.6662, 
+                                    473.7919, 
+                                    25.8882, 
+                                    43.7371, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    158.0615, 
+                                    45.9065
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "59cdf1cd-d9d6-470c-b6c4-fcbb7fc528ee"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "\u89e3\u9501\u5b8c\u6574\u7248_0", 
+                                    "not_wait_network": false, 
+                                    "sound_id": 110500, 
+                                    "type": 28
+                                }
+                            ], 
+                            "name": "\u89e3\u9501\u5b8c\u6574\u7248", 
+                            "normal_picture": 134225552, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    501.9996, 
+                                    405.6455, 
+                                    25.9054, 
+                                    37.4463, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    179.8571, 
+                                    45.4286
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "4504ae1e-3edc-44a9-b981-854c9c5bd5f3"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "\u9000\u51fa\u6e38\u620f_0", 
+                                    "not_wait_network": false, 
+                                    "sound_id": 110500, 
+                                    "type": 28
+                                }
+                            ], 
+                            "name": "\u9000\u51fa\u6e38\u620f", 
+                            "normal_picture": 134237608, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    501.6663, 
+                                    330.1265, 
+                                    25.8882, 
+                                    30.4749, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    162.3638, 
+                                    47.319
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "b555b1fb-b00d-487c-973a-61a3a9eb340b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134270780, 
+                    "name": "image_3", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            48.0, 
+                            50.0, 
+                            48.0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1937.8182, 
+                            1083.2727
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "15b4ad9d-bec4-4a0c-929f-8760c3ebdb84"
+                }
+            ], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "type": 7, 
+            "uid": "434574c9-b546-4a7c-b132-5eacb93ba0a4"
+        }
+    ], 
+    "name": "panel_1", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "7738fb26-b437-4080-b415-f067de5cfb1d", 
+    "visible": true, 
+    "zorder": 400
+}

@@ -1,0 +1,98 @@
+{
+    "deps_info": {
+        "deps": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901701
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900797
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902254
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901265
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902036
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900753
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900774
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901687
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901900
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900966
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900057
+                ]
+            }
+        ], 
+        "sound_id_list": []
+    }, 
+    "describe": 134227692, 
+    "key": 134227692, 
+    "md5": "9df891bd738a9bf84423088015614e6c", 
+    "model_id": 134279200, 
+    "name": "\u6cbb\u7597\u5854", 
+    "preview_icon": "", 
+    "res_identify": "", 
+    "res_type": "kkres", 
+    "scale": 1.0, 
+    "source_effect": [
+        100763
+    ], 
+    "uid": "134227692", 
+    "version": 1
+}

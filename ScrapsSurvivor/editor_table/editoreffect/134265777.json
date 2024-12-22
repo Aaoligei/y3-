@@ -1,0 +1,84 @@
+{
+    "deps_info": {
+        "deps": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900027
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901898
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901554
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901044
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902249
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902253
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901135
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901098
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900560
+                ]
+            }
+        ], 
+        "sound_id_list": []
+    }, 
+    "describe": 134265777, 
+    "key": 134265777, 
+    "md5": "69c7292bf5671400a729516ef81ee8b0", 
+    "model_id": 134260881, 
+    "name": "\u84dd\u9f99\u7279\u6548", 
+    "preview_icon": "", 
+    "res_identify": "", 
+    "res_type": "kkres", 
+    "scale": 1.0, 
+    "source_effect": [
+        101611
+    ], 
+    "uid": "134265777", 
+    "version": 1
+}

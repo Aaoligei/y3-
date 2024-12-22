@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 2.100000001, 
+    "effect_path": "Fx_Effect/Effect_Editor/Boom/Effect_Editor_boom_test_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134224892, 
+    "name": "\u602a\u7269\u53d7\u51fb"
+}

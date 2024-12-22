@@ -1,0 +1,15 @@
+{
+    "Format": "wav", 
+    "IsCustom": true, 
+    "SoundPath": "134257899", 
+    "custom_editor_type": "custom_editor_sound", 
+    "describe": "", 
+    "key": 134257899, 
+    "md5": "dd76543088a27da1943c5ef0853003f1", 
+    "name": "\u5546\u5e97\u6309\u94ae-computer_keyboard_spacebar", 
+    "res_name": "\u5546\u5e97\u6309\u94ae-computer_keyboard_spacebar.wav", 
+    "source": "code_Source_Import", 
+    "sub_type": "sound", 
+    "uid": 134257899, 
+    "version": 1
+}

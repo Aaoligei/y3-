@@ -1,0 +1,15 @@
+{
+    "Format": "wav", 
+    "IsCustom": true, 
+    "SoundPath": "134220264", 
+    "custom_editor_type": "custom_editor_sound", 
+    "describe": "", 
+    "key": 134220264, 
+    "md5": "e394ba26bc23750d5712facd8e561877", 
+    "name": "\u5546\u5e97\u8b66\u544a_warning", 
+    "res_name": "\u5546\u5e97\u8b66\u544a_warning.wav", 
+    "source": "code_Source_Import", 
+    "sub_type": "sound", 
+    "uid": 134220264, 
+    "version": 1
+}

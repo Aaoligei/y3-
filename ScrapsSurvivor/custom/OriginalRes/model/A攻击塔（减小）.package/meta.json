@@ -1,0 +1,73 @@
+{
+    "id": 134275352,
+    "materials": [
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "A-pile of clumpy dirt_COL(1).png",
+                    "tNormalMap": "A-pile of clumpy dirt_normal(1).png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "A-Plastic014A_1K-PNG_Color(1).png",
+                    "tMixMap": "A-Plastic014A_1K-PNG_Displacement(1).png",
+                    "tNormalMap": "A-Plastic014A_1K-PNG_NormalGL(1).png"
+                }
+            },
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "A-Plastic014A_1K-PNG_Color(1).png",
+                    "tMixMap": "A-Plastic014A_1K-PNG_Displacement(1).png",
+                    "tNormalMap": "A-Plastic014A_1K-PNG_NormalGL(1).png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "A-Plastic014A_1K-PNG_Color(1).png",
+                    "tMixMap": "A-Plastic014A_1K-PNG_Displacement(1).png",
+                    "tNormalMap": "A-Plastic014A_1K-PNG_NormalGL(1).png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "A-Metal036_2K-PNG_Color(1).png",
+                    "tMixMap": "A-Metal036_2K-PNG_Displacement(1).png",
+                    "tNormalMap": "A-Metal036_2K-PNG_NormalGL(1).png"
+                }
+            }
+        ]
+    ],
+    "md5_file_list": [
+        "\u653b\u51fb\u5854\uff08\u51cf\u5c0f\uff09.fbx",
+        "A-Plastic014A_1K-PNG_Displacement(1).png",
+        "A-Plastic014A_1K-PNG_NormalGL(1).png",
+        "A-Plastic014A_1K-PNG_Color(1).png",
+        "A-pile of clumpy dirt_normal(1).png",
+        "A-Metal036_2K-PNG_NormalGL(1).png",
+        "A-pile of clumpy dirt_COL(1).png",
+        "A-Metal036_2K-PNG_Color(1).png",
+        "A-Metal036_2K-PNG_Displacement(1).png"
+    ],
+    "modification_time": 17346972081.80492,
+    "ori_res_type": "ori",
+    "physic": true,
+    "preview_icon": "thumbnail.png",
+    "res_type": "model",
+    "skeleton": "",
+    "source_path": "\u653b\u51fb\u5854\uff08\u51cf\u5c0f\uff09.fbx",
+    "static_import": true,
+    "version": 1,
+    "yaw": 1.5707963267948966
+}

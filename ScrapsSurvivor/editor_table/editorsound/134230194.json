@@ -1,0 +1,15 @@
+{
+    "Format": "mp3", 
+    "IsCustom": true, 
+    "SoundPath": "134230194", 
+    "custom_editor_type": "custom_editor_sound", 
+    "describe": "", 
+    "key": 134230194, 
+    "md5": "15a9134f237eebe4a12b9c37937a4ea6", 
+    "name": "WARNING2", 
+    "res_name": "WARNING2.mp3", 
+    "source": "code_Source_Import", 
+    "sub_type": "sound", 
+    "uid": 134230194, 
+    "version": 1
+}

@@ -1,0 +1,63 @@
+{
+    "archive_drop_config": {}, 
+    "archive_slots": {
+        "1": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "desc": "\u73a9\u5bb6\u6536\u96c6\u5230\u7684\u603b\u8d44\u6e90", 
+            "encrypt": true, 
+            "game_mode_limit": 0, 
+            "key": 1, 
+            "max_value_limit_type": 0, 
+            "name": "\u603b\u8d44\u6e90", 
+            "time_interval_limit": [], 
+            "type": 2, 
+            "value": 6000, 
+            "week_date_limit": []
+        }, 
+        "2": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "desc": "\u73a9\u5bb6\u751f\u5b58\u7684\u5929\u6570", 
+            "encrypt": true, 
+            "game_mode_limit": 0, 
+            "key": 2, 
+            "max_value_limit_type": 0, 
+            "name": "\u751f\u5b58\u5929\u6570", 
+            "time_interval_limit": [], 
+            "type": 2, 
+            "value": 0, 
+            "week_date_limit": []
+        }, 
+        "3": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "desc": "\u73a9\u5bb6\u6240\u5728\u5173\u5361", 
+            "encrypt": true, 
+            "game_mode_limit": 0, 
+            "key": 3, 
+            "max_value_limit_type": 0, 
+            "name": "\u5173\u5361", 
+            "time_interval_limit": [], 
+            "type": 2, 
+            "value": 1, 
+            "week_date_limit": []
+        }, 
+        "4": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "desc": "\u73a9\u5bb6\u5728\u7814\u7a76\u53f0\u7528\u8d44\u6e90\u89e3\u9501\u7684\u4fe1\u606f", 
+            "encrypt": true, 
+            "game_mode_limit": 0, 
+            "key": 4, 
+            "max_value_limit_type": 0, 
+            "name": "\u89e3\u9501\u4fe1\u606f", 
+            "time_interval_limit": [], 
+            "type": 4, 
+            "value": "\u7814\u7a76\u53f0\u89e3\u9501\u4fe1\u606f", 
+            "week_date_limit": []
+        }
+    }, 
+    "multi_keys_limit_config": {}, 
+    "open_archive_key": 0
+}

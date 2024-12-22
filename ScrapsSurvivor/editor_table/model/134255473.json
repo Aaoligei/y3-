@@ -1,0 +1,44 @@
+{
+    "anims": {}, 
+    "box": {
+        "__tuple__": true, 
+        "items": [
+            0.22984999418258667, 
+            0.2757120132446289, 
+            -1.0483590364456177, 
+            0.7503139972686768, 
+            6.325732231140137, 
+            1.001541018486023
+        ]
+    }, 
+    "custom": true, 
+    "graph_info": {
+        "graph": null, 
+        "head_bone": "", 
+        "root_bone": "", 
+        "upper_bone": ""
+    }, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": [
+            "custom_model/134255473/Torus.004", 
+            "custom_model/134255473/BezierCurve.003", 
+            "custom_model/134255473/pile of clumpy dirt.002", 
+            "custom_model/134255473/Green Crate Emission.002", 
+            "custom_model/134255473/Green Crate Boolean.002", 
+            "custom_model/134255473/Green Crate.002"
+        ]
+    }, 
+    "model_id": 134255473, 
+    "name": "A\u6cbb\u7597\u751f\u7269\u5854\uff08\u51cf\u5c0f\uff09", 
+    "physics_meshes": [
+        "custom_model/134255473/AutoPhy_Mesh_Torus.004", 
+        "custom_model/134255473/AutoPhy_Mesh_BezierCurve.003", 
+        "ERROR: Invalid Mesh Virtual Path!", 
+        "ERROR: Invalid Mesh Virtual Path!", 
+        "ERROR: Invalid Mesh Virtual Path!", 
+        "ERROR: Invalid Mesh Virtual Path!"
+    ], 
+    "preview_icon": "UP1ModelPreview/134255473", 
+    "skeleton": ""
+}

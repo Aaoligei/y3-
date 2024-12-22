@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+	<Version>1</Version>
+	<SSkinSkeletonData>
+		<Root>
+			<Sub/>
+			<Entity type="SSkinSkeletonData">
+				<Bones count="3" ordered="true">
+					<Element index="0">
+						<Transform rawdata="AACAvzIxDaUyMQ2lMjENpWdnOSUAAIA/MjENpQAAgD9nZzml6LSBs7LqnzwI34q/">(-1,-0.00000000000000012,-0.00000000000000012,-0.00000000000000012,0.00000000000000016,1,-0.00000000000000012,1,-0.00000000000000016,-0.00000006039937248,0.01952109113335592,-1.08493137359619141)</Transform>
+						<Name>mixamorig:Neck</Name>
+					</Element>
+					<Element index="1">
+						<Transform rawdata="AACAvzIxDaUyMQ2lMjENpWdnOSUAAIA/MjENpQAAgD9nZzml6LSBs/z7XDxSiJe/">(-1,-0.00000000000000012,-0.00000000000000012,-0.00000000000000012,0.00000000000000016,1,-0.00000000000000012,1,-0.00000000000000016,-0.00000006039937247,0.0134878121316431,-1.18384766578674316)</Transform>
+						<Name>mixamorig:Head</Name>
+					</Element>
+					<Element index="2">
+						<Transform rawdata="AACAv8bEGqWAU/ykMjENpWl2zz3hrn4/MjENpeGufj9pds+96LSBsyBPub0+Dn2/">(-1,-0.00000000000000013,-0.00000000000000011,-0.00000000000000012,0.10130006587728417,0.9948559175344226,-0.00000000000000012,0.9948559175344226,-0.10130006587728417,-0.00000006039937249,-0.09048294973858774,-0.98849856873873987)</Transform>
+						<Name>mixamorig:Spine2</Name>
+					</Element>
+				</Bones>
+			</Entity>
+		</Root>
+	</SSkinSkeletonData>
+</Resource>

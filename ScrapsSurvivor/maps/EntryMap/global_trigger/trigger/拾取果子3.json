@@ -1,0 +1,356 @@
+{
+    "action": [
+        {
+            "action_type": "DISPLAY_INFO_TO_PLAYER", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        "拾取到果实"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 563261517000079, 
+            "enable": true
+        }, 
+        {
+            "action_type": "ADD_ATTR", 
+            "args_list": [
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        2
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100300, 
+                    "args_list": [
+                        "ATTR_BASE"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100042, 
+                    "args_list": [
+                        "defense_mag"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        80.0
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 28872784000002, 
+            "enable": true
+        }, 
+        {
+            "action_type": "ADD_ATTR", 
+            "args_list": [
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        2
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100300, 
+                    "args_list": [
+                        "ATTR_BASE"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100042, 
+                    "args_list": [
+                        "defense_phy"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        80.0
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 28872784000012, 
+            "enable": true
+        }, 
+        {
+            "action_type": "PICK_UNIT_DO_ACTION", 
+            "args_list": [
+                {
+                    "arg_type": 100026, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "UNIT_GROUP", 
+                                "随从组"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 14
+                }, 
+                {
+                    "arg_type": 100022, 
+                    "args_list": [
+                        {
+                            "action_type": "ADD_ATTR", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                }, 
+                                {
+                                    "arg_type": 100300, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "defense_phy"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        80.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 563261517000128, 
+                            "enable": true
+                        }
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 563261517000117, 
+            "enable": true
+        }, 
+        {
+            "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
+            "args_list": [
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        120.0
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100022, 
+                    "args_list": [
+                        {
+                            "action_type": "SET_ATTR", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100300, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "defense_phy"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        0.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 563261517000069, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "SET_ATTR", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100300, 
+                                    "args_list": [
+                                        "ATTR_BASE"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100042, 
+                                    "args_list": [
+                                        "defense_mag"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        0.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 28872784000146, 
+                            "enable": true
+                        }, 
+                        {
+                            "action_type": "PICK_UNIT_DO_ACTION", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100026, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UNIT_GROUP", 
+                                                "随从组"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 14
+                                }, 
+                                {
+                                    "arg_type": 100022, 
+                                    "args_list": [
+                                        {
+                                            "action_type": "SET_ATTR", 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100006, 
+                                                    "args_list": [], 
+                                                    "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                                }, 
+                                                {
+                                                    "arg_type": 100300, 
+                                                    "args_list": [
+                                                        "ATTR_BASE"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100042, 
+                                                    "args_list": [
+                                                        "defense_phy"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [
+                                                        0.0
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "bp": false, 
+                                            "element_id": 563261517000185, 
+                                            "enable": true
+                                        }
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 563261517000163, 
+                            "enable": true
+                        }
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 28872784000004, 
+            "enable": true, 
+            "local_var": {
+                "__tuple__": true, 
+                "items": [
+                    {}, 
+                    {}
+                ]
+            }
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100032, 
+                    "args_list": [
+                        134244028
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 28872784000001, 
+            "enable": true, 
+            "event_type": "UNIT_ADD_TYPE_ITEM_EVENT"
+        }
+    ], 
+    "group_id": 0, 
+    "p_trigger_id": null, 
+    "trigger_id": 28872784, 
+    "trigger_name": "拾取果子3", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}

@@ -1,0 +1,32 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483645, 
+    "code_explorer_collection_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483645", 
+    0, 
+    "irpu1rCREe+3yNdZnNeGWd", 
+    "\u573a\u5730\u5185\u88c5\u9970"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483645", 
+    1, 
+    "HXBeTLCQEe+EPNdZnNeGWd", 
+    "\u8fb9\u754c\u88c5\u9970"
+   ]
+  }
+ ], 
+ "d": {}
+}

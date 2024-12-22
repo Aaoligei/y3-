@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+	<Version>2</Version>
+	<SMaterialData>
+		<Root>
+			<Sub/>
+			<Entity type="SMaterialData">
+				<name/>
+				<info>
+					<Layers count="2" ordered="true">
+						<Element index="0">
+							<LayerName>2f05a03d-bf8b-4505-ba35-8555423aa8b5</LayerName>
+							<ShaderName>c5c7cfa0-a62d-416d-b1fc-4a598ee8732e</ShaderName>
+							<Parameters count="3" ordered="true">
+								<Element index="0">
+									<Name>tBaseMap</Name>
+									<Value>01022c2d-04c9-45c9-88fd-3a9e62781ec7</Value>
+								</Element>
+								<Element index="1">
+									<Name>tNormalMap</Name>
+									<Value>48399c05-d931-4a7b-ada2-e8c27ec09222</Value>
+								</Element>
+								<Element index="2">
+									<Name>tMixMap</Name>
+									<Value>9391ccc4-bfca-4a02-b7e3-69b6a2eb767f</Value>
+								</Element>
+							</Parameters>
+							<MultiPassMaterials count="0" ordered="true"/>
+							<MaterialTrans count="0" ordered="true"/>
+						</Element>
+						<Element index="1">
+							<LayerName>2f05a03d-bf8b-4505-ba35-8555423aa8b5</LayerName>
+							<ShaderName>c5c7cfa0-a62d-416d-b1fc-4a598ee8732e</ShaderName>
+							<Parameters count="3" ordered="true">
+								<Element index="0">
+									<Name>tBaseMap</Name>
+									<Value>0afe8d2e-5303-4a26-a5d1-595ef36799d5</Value>
+								</Element>
+								<Element index="1">
+									<Name>tNormalMap</Name>
+									<Value>40593892-62cf-4363-9985-5f10c91eb339</Value>
+								</Element>
+								<Element index="2">
+									<Name>tMixMap</Name>
+									<Value>909db857-8d1c-4709-ba00-bbbab139d22c</Value>
+								</Element>
+							</Parameters>
+							<MultiPassMaterials count="0" ordered="true"/>
+							<MaterialTrans count="0" ordered="true"/>
+						</Element>
+					</Layers>
+					<ExtTech>464</ExtTech>
+				</info>
+				<flags count="2" ordered="true">
+					<Element index="0">262161</Element>
+					<Element index="1">262161</Element>
+				</flags>
+				<customRenderset count="2" ordered="true">
+					<Element index="0">0</Element>
+					<Element index="1">0</Element>
+				</customRenderset>
+			</Entity>
+		</Root>
+	</SMaterialData>
+</Resource>

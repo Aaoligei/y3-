@@ -1,0 +1,61 @@
+{
+    "action": [
+        {
+            "action_type": "SET_UI_COMP_VISIBLE", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100070, 
+                    "args_list": [
+                        "a6065be7-2e66-46c2-b4e6-714caabd0c73"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1589215284000002, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SOFT_PAUSE_GAME", 
+            "args_list": [], 
+            "bp": false, 
+            "element_id": 1589215284000018, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "选择获得塔或者随从", 
+    "func_id": "fa64b403adef11efa00babdd0949636f", 
+    "func_name": "选择升级类型", 
+    "group_id": "sfCBpK3oEe+EF6vdCUljb4", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 1589215284, 
+    "trigger_name": "选择升级类型", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}

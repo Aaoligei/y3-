@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+	<Version>1</Version>
+	<ModelInfo>
+		<Root>
+			<Sub/>
+			<Entity type="ModelInfo">
+				<BoundBox>(-0.046978,1.234391,0.063596,0.046980,1.255883,0.079992)</BoundBox>
+				<NumVertices>462</NumVertices>
+				<NumFaces>460</NumFaces>
+				<ModelType>2</ModelType>
+				<ModelElements count="0" ordered="true"/>
+			</Entity>
+		</Root>
+	</ModelInfo>
+</Resource>

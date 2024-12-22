@@ -1,0 +1,71 @@
+{
+    "id": 134231457,
+    "materials": [
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "0A-211300_ES_D_2(1).png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "0A-YF.png",
+                    "tNormalMap": "0A-YFF.png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "0A-MR.png",
+                    "tNormalMap": "0A-MRR.png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "A-TF.png",
+                    "tNormalMap": "A-TFF.png"
+                }
+            }
+        ],
+        [
+            {
+                "name": "Common/Materials/BaseMaterials/M_PBR_Base",
+                "source_path": {
+                    "tBaseMap": "0A-ZJ.png",
+                    "tNormalMap": "0A-ZJJ.png"
+                }
+            }
+        ]
+    ],
+    "md5_file_list": [
+        "\u7f29\u5c0f- max1.fbx",
+        "0A-ZJJ.png",
+        "0A-MRR.png",
+        "A-TF.png",
+        "A-TFF.png",
+        "0A-211300_ES_D_2(1).png",
+        "0A-YF.png",
+        "0A-ZJ.png",
+        "0A-MR.png",
+        "0A-YFF.png"
+    ],
+    "modification_time": 19077262103.19967,
+    "ori_res_type": "ori",
+    "physic": true,
+    "preview_icon": "thumbnail.png",
+    "res_type": "model",
+    "skeleton": "134231457\\base.skeleton",
+    "source_path": "\u7f29\u5c0f- max1.fbx",
+    "static_import": false,
+    "version": 1,
+    "yaw": 0
+}

@@ -1,0 +1,86 @@
+{
+    "-2113600798": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134275745, 
+        "prop_key": "name"
+    }, 
+    "-1901162231": {
+        "editor_type": "sound_all", 
+        "index_type": "object_editor", 
+        "item_key": 134262054, 
+        "prop_key": "name"
+    }, 
+    "-957383892": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134266101, 
+        "prop_key": "name"
+    }, 
+    "-914145050": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134269193, 
+        "prop_key": "name"
+    }, 
+    "-429509032": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134227040, 
+        "prop_key": "name"
+    }, 
+    "-290366948": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134246213, 
+        "prop_key": "name"
+    }, 
+    "422835802": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134236713, 
+        "prop_key": "name"
+    }, 
+    "830331086": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134225591, 
+        "prop_key": "name"
+    }, 
+    "1108452818": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134268866, 
+        "prop_key": "name"
+    }, 
+    "1233992027": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134223363, 
+        "prop_key": "name"
+    }, 
+    "1471915910": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134243327, 
+        "prop_key": "name"
+    }, 
+    "1904461138": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134258829, 
+        "prop_key": "name"
+    }, 
+    "2049218358": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134277058, 
+        "prop_key": "name"
+    }, 
+    "2079777024": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134271630, 
+        "prop_key": "name"
+    }
+}

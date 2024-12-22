@@ -1,0 +1,84 @@
+{
+    "action": [
+        {
+            "action_type": "DISPLAY_INFO_TO_PLAYER", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        "拾取到果实"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 563261517000079, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_CUR_HP", 
+            "args_list": [
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        2
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        1500.0
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 397602894000017, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100032, 
+                    "args_list": [
+                        134234123
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 397602894000003, 
+            "enable": true, 
+            "event_type": "UNIT_ADD_TYPE_ITEM_EVENT"
+        }
+    ], 
+    "group_id": 0, 
+    "p_trigger_id": null, 
+    "trigger_id": 397602894, 
+    "trigger_name": "拾取果子2", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}

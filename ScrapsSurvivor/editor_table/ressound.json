@@ -1,0 +1,74 @@
+{
+    "134220264": {
+        "Format": "wav", 
+        "SoundPath": "134220264", 
+        "default_editor_id": 134220264, 
+        "describe": "", 
+        "key": "134220264", 
+        "name": "\u5546\u5e97\u8b66\u544a_warning", 
+        "uid": "res_sound_134220264"
+    }, 
+    "134230194": {
+        "Format": "mp3", 
+        "SoundPath": "134230194", 
+        "default_editor_id": 134230194, 
+        "describe": "", 
+        "key": "134230194", 
+        "name": "WARNING2", 
+        "uid": "res_sound_134230194"
+    }, 
+    "134234742": {
+        "Format": "mp3", 
+        "SoundPath": "134234742", 
+        "default_editor_id": 134234742, 
+        "describe": "", 
+        "key": "134234742", 
+        "name": "\u8425\u5730-Going Home - The Soundlings", 
+        "uid": "res_sound_134234742"
+    }, 
+    "134257899": {
+        "Format": "wav", 
+        "SoundPath": "134257899", 
+        "default_editor_id": 134257899, 
+        "describe": "", 
+        "key": "134257899", 
+        "name": "\u5546\u5e97\u6309\u94ae-computer_keyboard_spacebar", 
+        "uid": "res_sound_134257899"
+    }, 
+    "134265271": {
+        "Format": "mp3", 
+        "SoundPath": "134265271", 
+        "default_editor_id": 134265271, 
+        "describe": "", 
+        "key": "134265271", 
+        "name": "\u5546\u5e971-Carousel Dreams - The Soundlings", 
+        "uid": "res_sound_134265271"
+    }, 
+    "134267241": {
+        "Format": "mp3", 
+        "SoundPath": "134267241", 
+        "default_editor_id": 134267241, 
+        "describe": "", 
+        "key": "134267241", 
+        "name": "\u6218\u65972-Shady Guise - The Soundlings", 
+        "uid": "res_sound_134267241"
+    }, 
+    "134277758": {
+        "Format": "mp3", 
+        "SoundPath": "134277758", 
+        "default_editor_id": 134277758, 
+        "describe": "", 
+        "key": "134277758", 
+        "name": "\u6218\u65971-Keys To Unravel - The Soundlings", 
+        "uid": "res_sound_134277758"
+    }, 
+    "134283124": {
+        "Format": "mp3", 
+        "SoundPath": "134283124", 
+        "default_editor_id": 134283124, 
+        "describe": "", 
+        "key": "134283124", 
+        "name": "\u3010\u7ecf\u5178\u91cd\u7f6e\u3011\u84dd\u8272\u591a\u7459\u6cb3-2001_\u592a\u7a7a\u6f2b\u6e38\u7ecf\u5178\u7247\u6bb5SQ\u6700\u9ad8\u97f3\u8d28\u8fd8\u539f", 
+        "uid": "res_sound_134283124"
+    }
+}

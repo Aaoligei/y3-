@@ -1,0 +1,185 @@
+{
+    "_custom_": true, 
+    "_ref_": 134246029, 
+    "attach_models": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "base_color_mod": 0, 
+    "base_tint_color": [
+        0, 
+        15, 
+        90, 
+        0.5
+    ], 
+    "cast_shadow": true, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -4, 
+                -4
+            ], 
+            [
+                5, 
+                5
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                256, 
+                256, 
+                256, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                256, 
+                256, 
+                256, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                256, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            1.0
+        ]
+    }, 
+    "description": 1286575999, 
+    "effect_list": [], 
+    "enable_camera_collision": 0, 
+    "enable_occlusion_perspective": false, 
+    "fresnel_color": [
+        43, 
+        40, 
+        40, 
+        0.5
+    ], 
+    "fresnel_emissive_color_strength": 0.05, 
+    "fresnel_exp": 10.0, 
+    "height_num": 9, 
+    "height_offset": 0.25, 
+    "icon": 100000, 
+    "is_x_offset": true, 
+    "is_z_offset": true, 
+    "key": 134246029, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 103233, 
+    "model_opacity": 1, 
+    "name": -2068935294, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "\u88c5\u9970", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134246029", 
+    "use_base_tint_color": true, 
+    "use_fresnel": false, 
+    "use_physics": false, 
+    "use_virtual_light": 0, 
+    "width_num": 9, 
+    "width_offset": 0.25
+}

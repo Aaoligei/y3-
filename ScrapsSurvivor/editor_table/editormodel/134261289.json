@@ -1,0 +1,19 @@
+{
+    "custom_res_type": "custom_editor_model", 
+    "describe": "test_describe", 
+    "has_upload": false, 
+    "key": 134261289, 
+    "md5": "7fec1a150cdb6a8f7b422438881726b7", 
+    "model_id": 134261289, 
+    "name": "A\u653b\u51fb\u751f\u7269\u5854\uff08\u51cf\u5c0f\uff09", 
+    "preview_icon": "UP1ModelPreview/134261289", 
+    "res_name": "\u653b\u51fb\u751f\u7269\u5854\uff08\u51cf\u5c0f\uff09.fbx", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "sub_type": "fbx", 
+    "uid": 134261289, 
+    "url": "https://kk3.nosdn.127.net/editor/png/3d18ea82223218e77c5e23330a66a96d.png", 
+    "version": 1, 
+    "yaw": 1.5707963267948966
+}

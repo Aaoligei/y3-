@@ -1,0 +1,19 @@
+{
+    "custom_res_type": "custom_editor_model", 
+    "describe": "test_describe", 
+    "has_upload": false, 
+    "key": 134276765, 
+    "md5": "cbcea66b888f0c4875551a5bfc55a9f9", 
+    "model_id": 134276765, 
+    "name": "\u673a\u7532_4", 
+    "preview_icon": "UP1ModelPreview/134276765", 
+    "res_name": "\u673a\u7532.fbx", 
+    "select_effect_scale": 0.7, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "sub_type": "fbx", 
+    "uid": 134276765, 
+    "url": "https://kk3.nosdn.127.net/editor/png/632ae25ee5f5a8b6fce67367d684e056.png", 
+    "version": 1, 
+    "yaw": 0
+}

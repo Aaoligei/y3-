@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+	<Version>2</Version>
+	<SMaterialData>
+		<Root>
+			<Sub/>
+			<Entity type="SMaterialData">
+				<name/>
+				<info>
+					<Layers count="1" ordered="true">
+						<Element index="0">
+							<LayerName>2f05a03d-bf8b-4505-ba35-8555423aa8b5</LayerName>
+							<ShaderName>c5c7cfa0-a62d-416d-b1fc-4a598ee8732e</ShaderName>
+							<Parameters count="3" ordered="true">
+								<Element index="0">
+									<Name>tBaseMap</Name>
+									<Value>3621f4ce-8784-4848-a27e-5e0be2622278</Value>
+								</Element>
+								<Element index="1">
+									<Name>tNormalMap</Name>
+									<Value>aea6ebe0-5c28-4cb9-bc28-cbe38bcd34ee</Value>
+								</Element>
+								<Element index="2">
+									<Name>tMixMap</Name>
+									<Value>41ba4a5e-85a3-4bfe-8e7b-b038e301f3b3</Value>
+								</Element>
+							</Parameters>
+							<MultiPassMaterials count="0" ordered="true"/>
+							<MaterialTrans count="0" ordered="true"/>
+						</Element>
+					</Layers>
+					<ExtTech>464</ExtTech>
+				</info>
+				<flags count="1" ordered="true">
+					<Element index="0">262161</Element>
+				</flags>
+				<customRenderset count="1" ordered="true">
+					<Element index="0">0</Element>
+				</customRenderset>
+			</Entity>
+		</Root>
+	</SMaterialData>
+</Resource>

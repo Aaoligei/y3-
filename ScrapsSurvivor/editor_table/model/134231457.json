@@ -1,0 +1,48 @@
+{
+    "anims": {
+        "die": "134231457/die.anim", 
+        "idle1": "134231457/idle1.anim", 
+        "walk": "134231457/walk.anim", 
+        "\u7f29\u5c0f- max1": "134231457/\u7f29\u5c0f- max1.anim"
+    }, 
+    "box": {
+        "__tuple__": true, 
+        "items": [
+            -0.44718900322914124, 
+            0.7822420001029968, 
+            -0.6613600254058838, 
+            0.4449230134487152, 
+            1.5833740234375, 
+            -0.050308000296354294
+        ]
+    }, 
+    "custom": true, 
+    "graph": "Char/Graph/common.graph", 
+    "graph_info": {
+        "graph": null, 
+        "head_bone": "", 
+        "root_bone": "", 
+        "upper_bone": ""
+    }, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": [
+            "custom_model/134231457/ES", 
+            "custom_model/134231457/LB", 
+            "custom_model/134231457/LF", 
+            "custom_model/134231457/LH", 
+            "custom_model/134231457/Titan"
+        ]
+    }, 
+    "model_id": 134231457, 
+    "name": "A\u7f29\u5c0f- max1", 
+    "physics_meshes": [
+        "custom_model/134231457/AutoPhy_Mesh_ES", 
+        "custom_model/134231457/AutoPhy_Mesh_LB", 
+        "custom_model/134231457/AutoPhy_Mesh_LF", 
+        "custom_model/134231457/AutoPhy_Mesh_LH", 
+        "custom_model/134231457/AutoPhy_Mesh_Titan"
+    ], 
+    "preview_icon": "UP1ModelPreview/134231457", 
+    "skeleton": "134231457\\base.skeleton"
+}

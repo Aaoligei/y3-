@@ -1,0 +1,36 @@
+{
+    "anims": {}, 
+    "box": {
+        "__tuple__": true, 
+        "items": [
+            -2.8485751152038574, 
+            0.04282600060105324, 
+            -2.264725923538208, 
+            2.4581069946289062, 
+            1.3492900133132935, 
+            2.4368391036987305
+        ]
+    }, 
+    "custom": true, 
+    "graph_info": {
+        "graph": null, 
+        "head_bone": "", 
+        "root_bone": "", 
+        "upper_bone": ""
+    }, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": [
+            "custom_model/134271964/Cube", 
+            "custom_model/134271964/pile of clumpy dirt.006"
+        ]
+    }, 
+    "model_id": 134271964, 
+    "name": "\u65e0\u57a2\u77f3\u7891", 
+    "physics_meshes": [
+        "custom_model/134271964/AutoPhy_Mesh_Cube", 
+        "ERROR: Invalid Mesh Virtual Path!"
+    ], 
+    "preview_icon": "UP1ModelPreview/134271964", 
+    "skeleton": ""
+}

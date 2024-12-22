@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 3.36, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Wind/Wind_3073_skill_03_03_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134230060, 
+    "name": "\u751f\u7269\u6536\u96c6\u77f3\u7891"
+}

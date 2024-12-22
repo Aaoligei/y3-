@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+	<Version>8</Version>
+	<SRenderMeshData>
+		<Root>
+			<Sub/>
+			<Entity type="SRenderMeshData">
+				<VertexFormat count="4">
+					<Element index="0">P3F_C4B_N4B_T2F_T4F</Element>
+					<Element index="1">None</Element>
+					<Element index="2">None</Element>
+					<Element index="3">None</Element>
+				</VertexFormat>
+				<VertexCount>3206</VertexCount>
+				<IndexCount>4965</IndexCount>
+				<StreamingMask>0</StreamingMask>
+				<PrimTopology>Tri_List</PrimTopology>
+				<KeepData>false</KeepData>
+				<BoundingVolume rawdata="sYKUuludtT51F468gmHkPh3Ltj6qHJ4+gmFkPw==">(-0.00113304534028774,0.35471615928593431,-0.01734517019361739,0.44605642658997458,0.35701838294697025,0.30881245010591174,0.89211285317994915)</BoundingVolume>
+				<BoundingBox rawdata="BfbkvufgFrsi/qa+/8zjPjw0Nj8zO5U+">(-0.44718947193026232,-0.00230222366103594,-0.32615762029952911,0.44492338124968683,0.71173454223290455,0.29146727991229432)</BoundingBox>
+				<Streams count="4">
+					<Element index="0">
+						<StreamSize>141064</StreamSize>
+					</Element>
+					<Element index="1">
+						<StreamSize>0</StreamSize>
+					</Element>
+					<Element index="2">
+						<StreamSize>0</StreamSize>
+					</Element>
+					<Element index="3">
+						<StreamSize>0</StreamSize>
+					</Element>
+				</Streams>
+				<Indices>
+					<StreamSize>9930</StreamSize>
+				</Indices>
+				<Groups count="1" ordered="true">
+					<Element index="0">
+						<StartIndex>0</StartIndex>
+						<IndicesCount>4965</IndicesCount>
+						<StartVertex>0</StartVertex>
+						<VerticesCount>3206</VerticesCount>
+						<BoundingVolume rawdata="sYKUuludtT51F468gmHkPh3Ltj6qHJ4+gmFkPw==">(-0.00113304534028774,0.35471615928593431,-0.01734517019361739,0.44605642658997458,0.35701838294697025,0.30881245010591174,0.89211285317994915)</BoundingVolume>
+						<BoundingBox rawdata="BfbkvufgFrsi/qa+/8zjPjw0Nj8zO5U+">(-0.44718947193026232,-0.00230222366103594,-0.32615762029952911,0.44492338124968683,0.71173454223290455,0.29146727991229432)</BoundingBox>
+					</Element>
+				</Groups>
+			</Entity>
+		</Root>
+	</SRenderMeshData>
+</Resource>
